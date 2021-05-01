@@ -1,8 +1,7 @@
-## *Hey everybody* ##
-- I’m Raul Lamas (@raullamas).
-- Interested in environmental management.
-- Currently learning JS, css and html.
-- Happy to collaborate on any kind of project.
+## Raul Lamas ##
+@raullamas
+
+Environmental engineer learning Javascript. Interested in contributing to sustainability projects. Peruvian, living in Peru.
 
 <!---
 raullamas/raullamas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
